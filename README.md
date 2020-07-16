@@ -59,6 +59,10 @@ There are several various pieces of information we can pull from an array of num
 - Find the range `rangeValue`
 	- use `minValue` and `maxValue` to help
 
+### Objective 2 - Finishing the main
+- Call all the methods on each array in the main
+- Display the various results to the user in a friendly format
+
 **Bonus**
 Find the standard deviation of an array of the following: 600, 470, 170, 430, 300, 280, 389
 
