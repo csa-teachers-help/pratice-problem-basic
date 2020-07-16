@@ -40,13 +40,16 @@ There are several various pieces of information we can pull from an array of num
 
 - Count occurences `countOccurs`
 	- count the number of occurences in the array of a passed value
+	- the array should be the first param
 
 - Determine presence or absence of a value `appearsIn`
 	- use the `countOccurs` to help
 	- result should be `true` or `false`
+	- the array should be the first param
 
 - Determine first location `firstAppear`
 	- find the first index of a passed value
+	- the array should be the first param
 
 - Find the minimum number `minValue`
 
