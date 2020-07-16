@@ -50,6 +50,7 @@ There are several various pieces of information we can pull from an array of num
 - Determine first location `firstAppear`
 	- find the first index of a passed value
 	- the array should be the first param
+	- return -1 if not found
 
 - Find the minimum number `minValue`
 
