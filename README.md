@@ -36,7 +36,7 @@ There are several various pieces of information we can pull from an array of num
 
 - Sum the elements `sumElems`
 
-- Average the elements `avgElem`
+- Average the elements `avgElems`
 
 - Count occurences `countOccurs`
 	- count the number of occurences in the array of a passed value
