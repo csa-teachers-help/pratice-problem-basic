@@ -27,6 +27,8 @@ Simple reminder to clone this repo into `IntelliJ` here.
 ### Objective 4 - Branching from the master
 Description of how to branch from the `master` in `IntelliJ`.  Expectation is students have more than one branch when working on projects.  They merge branches into master at the end when submitting only the master branch is graded.
 
+**Note** For this practice I would suggest the following branching as it allows for decent practice. A `dev` branch off of the master.  Then each method gets its own branch off of the `dev`.  As these methods are completed they should be merged to the `dev` for testing.  If the methods test well then merge into the `master`.  You could add a `testing` branch between the method branches and the `dev` depends on how much practice you want to give.  While there are some "standards" to branching each company will have different requirements and ways to do it so practicing and find a flow that works best for you and your students is suggested.
+
 ## Quest Requirements
 
 ### Objective 1 - The methods
