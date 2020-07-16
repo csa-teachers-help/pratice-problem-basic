@@ -38,8 +38,8 @@ There are several various pieces of information we can pull from an array of num
 
 - Average the elements `avgElems`
 
-- Count occurences `countOccurs`
-	- count the number of occurences in the array of a passed value
+- Count occurrences `countOccurs`
+	- count the number of occurrences in the array of a passed value
 	- the array should be the first param
 
 - Determine presence or absence of a value `appearsIn`
