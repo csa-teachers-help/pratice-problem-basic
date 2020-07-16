@@ -1,5 +1,5 @@
 **Special Note:**
-This repo is to be used as practice an getting used to a GitHub workflow. In order to begin working on this repo and trying to find your comfort in a GitHub workflow you should `fork` the repository. 
+This repo is to be used as practice an getting used to a GitHub workflow. To begin working on this repo and trying to find your comfort in a GitHub workflow you should `fork` the repository. 
 
 This is found in the top right of the screen
 
@@ -30,7 +30,7 @@ Description of how to branch from the `master` in `IntelliJ`.  Expectation is st
 ## Quest Requirements
 
 ### Objective 1 - The methods
-There are a number of various pieces of information we can pull from an array of numbers.  Doing these methods help us with method writing, array traversal, variable scope, and method calling.
+There are several various pieces of information we can pull from an array of numbers.  Doing these methods help us with method writing, array traversal, variable scope, and method calling.
 
 - Sum the elements `sumElems`
 
