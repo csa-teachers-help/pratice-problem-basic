@@ -1,5 +1,5 @@
 **Special Note:**
-This repo is to be used as practice an getting used to a GitHub workflow. To begin working on this repo and trying to find your comfort in a GitHub workflow you should `fork` the repository. 
+This repo is to be used as practice getting use to a GitHub workflow. To begin working on this repo and trying to find your comfort in a GitHub workflow you should `fork` the repository. 
 
 This is found in the top right of the screen
 
