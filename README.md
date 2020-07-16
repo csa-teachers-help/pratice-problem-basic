@@ -5,7 +5,7 @@ This is found in the top right of the screen
 
 ![Fork location](images/fork-button.png)
 
-Selecting this button will give you options asking where you would like to fork the repo.  You can select from your account or any organization you have permission in.  This is different than how a classroom assignment is distributed.  Make sure to keep that in mind when going through this initial process.
+Selecting this button will give you options asking where you would like to fork the repo.  You can select from your account or any organization you have permission in.  This is different than how a classroom assignment gets distributed.  Make sure to keep that in mind when going through this initial process.
 
 This assignment outlined below is an example of what is given to students (it is not a perfect 1:1 to what students are given).
 
